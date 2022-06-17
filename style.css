@@ -1,0 +1,14 @@
+table,td,th{border:1px Solid rgba(0, 0, 0, 0.229);
+     padding: 5px;
+     border-collapse: collapse;
+border-spacing:5px;
+}
+body{background-color: rgba(179, 209, 245, 0.622);}
+#myHead{text-align:left;
+    font-size: 20px;
+    background-color: rgba(57, 48, 80, 0.352);}
+
+    .row:nth-child(even) {
+        background-color: rgba(57, 48, 80, 0.352)
+      }
+    
